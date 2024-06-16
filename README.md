@@ -1,1 +1,1 @@
-# Jot-It-Down
+# Jot-It-Down_Note-Taker
