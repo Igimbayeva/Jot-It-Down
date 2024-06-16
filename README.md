@@ -132,9 +132,9 @@ The Note Taker application is deployed and accessible live at [https://jot-it-do
 
 ### Homepage
 
-![Homepage](https://github.com/Igimbayeva/Jot-It-Down_Note-Taker/tree/main/public/assets/pic1.png)
+![Homepage](https://github.com/Igimbayeva/Jot-It-Down_Note-Taker/blob/main/public/assets/pic1.PNG)
 
 ### Notes Page
 
-![Notes Page](https://github.com/Igimbayeva/Jot-It-Down_Note-Taker/tree/main/public/assets/pic2.png)
+![Notes Page](https://github.com/Igimbayeva/Jot-It-Down_Note-Taker/blob/main/public/assets/pic2.PNG)
 
