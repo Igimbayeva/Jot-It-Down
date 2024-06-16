@@ -1,6 +1,22 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  {
+    "title": "Morning Huddle",
+    "text": "Create meeting Agenda\n",
+    "id": "9135e860-2b97-11ef-87ce-d509d4188078"
+  },
+  {
+    "title": "Emails",
+    "text": "Set aside a time slot from 10am to 11am to check emails\n",
+    "id": "ab782ad0-2b97-11ef-87ce-d509d4188078"
+  },
+  {
+    "title": "Leasing",
+    "text": "Create list of vacancies\n",
+    "id": "bc6a3db0-2b97-11ef-87ce-d509d4188078"
+  },
+  {
+    "title": "Coding Bootcamp",
+    "text": "Submit Homework",
+    "id": "f1ef90c0-2b97-11ef-87ce-d509d4188078"
+  }
 ]
