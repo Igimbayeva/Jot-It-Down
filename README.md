@@ -39,7 +39,7 @@ To run the Note Taker application locally, follow these steps:
 4. Start the application:
 
    ```bash
-   npm start
+   node server.js
    ```
 
 5. Open your browser and visit `http://localhost:3000` to use the Note Taker application.
@@ -123,5 +123,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Live URL
 
-The Note Taker application is deployed and accessible live at [https://your-note-taker-url.render.com](https://your-note-taker-url.render.com).
+The Note Taker application is deployed and accessible live at [https://jot-it-down-note-taker.onrender.com](https://jot-it-down-note-taker.onrender.com).
 
