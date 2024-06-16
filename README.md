@@ -1,3 +1,7 @@
+Certainly! Here’s an enhanced version of your README.md file for the Note Taker application, including two snippets and placeholders for images:
+
+---
+
 # Jot-It-Down_Note-Taker
 
 The Note Taker application is a web-based tool built with Express.js that allows users to write, save, and delete notes. This application provides a simple and intuitive interface for managing notes effectively.
@@ -114,8 +118,7 @@ For development purposes, it also includes dependencies for testing, linting, or
 
 ## Contributing
 
-Contributions to the Note Taker application are welcome!<br> 
-If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request on the GitHub repository at [Igimbayeva/Jot-It-Down_Note-Taker](https://github.com/Igimbayeva/Jot-It-Down_Note-Taker).
+Contributions to the Note Taker application are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request on the GitHub repository at [Igimbayeva/Jot-It-Down_Note-Taker](https://github.com/Igimbayeva/Jot-It-Down_Note-Taker).
 
 ## License
 
@@ -124,4 +127,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Live URL
 
 The Note Taker application is deployed and accessible live at [https://jot-it-down-note-taker.onrender.com](https://jot-it-down-note-taker.onrender.com).
+
+## Screenshots
+
+### Homepage
+
+![Homepage](https://github.com/Igimbayeva/Jot-It-Down_Note-Taker/tree/main/public/assets/pic1.png)
+
+### Notes Page
+
+![Notes Page](https://github.com/Igimbayeva/Jot-It-Down_Note-Taker/tree/main/public/assets/pic2.png)
 
